@@ -1,0 +1,25 @@
+button {
+  background-color: #ffffff;
+  width: 780px;
+  height: 57px;
+  margin: auto;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 28px;
+  border: 1px solid #fa4820;
+  box-sizing: border-box;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fa4820;
+  text-transform: uppercase;
+  cursor: pointer;
+  position: relative;
+  margin-top: 30px;
+}
+
+button:hover {
+  background-color: #fa4820;
+  color: #ffffff;
+}
